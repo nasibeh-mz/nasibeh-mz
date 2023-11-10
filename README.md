@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nasibeh-mz
-- 👀 I’m interested in Web Developing, cybersecurity and Blockchain Technology
+- 👀 I’m interested in Web Developing, Cybersecurity and Blockchain Technology
 - 🌱 I’m currently learning 
 
 <!---
