@@ -12,7 +12,6 @@
   - **Cloud Native Secure:** Pioneering the next-gen cloud security. ☁️
   - **ICS Security:** Enhancing the security of Industrial Control Systems. 🏭
   - **Identity and Access Management (IAM):** Revolutionizing how we manage digital identities. 🔑
-  - **Blockchain Technology**
 
 #### 🎓 My Academic Journey
 - **PhD:** Received from Universitat Politècnica de Catalunya · Barcelona Tech (UPC),2022
