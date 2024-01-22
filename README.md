@@ -7,7 +7,6 @@
 
 #### 💻 My Current Endeavors
 - 🖥️ **Role:** Scientific Researcher
-- 🏢 **Location:** Spain
 - 📚 **Focus Areas:** 
   - **Cloud Native Secure:** Pioneering the next-gen cloud security. ☁️
   - **ICS Security:** Enhancing the security of Industrial Control Systems. 🏭
