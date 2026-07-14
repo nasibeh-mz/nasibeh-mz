@@ -1,18 +1,77 @@
 
-👋 Hi, I’m @nasibeh-mz
-#### 🌐 What I'm Passionate About
-- 🛡️ **Cybersecurity:** A field constantly evolving and challenging me to stay ahead of emerging threats.
-- ⛓️ **Blockchain Technology:** Exploring the endless possibilities of decentralized systems and their impact on various industries.
+# 👋 Hi, I'm Nasibeh Mohammadzadeh (@nasibeh-mz)
 
-#### 💻 My Current Endeavors
-- 🖥️ **Role:** Scientific Researcher
-- 📚 **Focus Areas:**
-  - **Cloud Native Secure:** Pioneering the next-gen cloud security. ☁️
-  - **ICS Security:** Enhancing the security of Industrial Control Systems. 🏭
-  - **Identity and Access Management (IAM):** Revolutionizing how we manage digital identities. 🔑
+I'm a Postdoctoral Researcher and Cybersecurity Engineer passionate about building trustworthy, secure, and intelligent digital systems.
 
-#### 🎓 My Academic Journey
-- **PhD:** Received from Universitat Politècnica de Catalunya · Barcelona Tech (UPC),2022
+---
 
-#### 📖 Publications and Research
-- 📄 For a comprehensive list of my articles and manuscripts, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=VU8lEH4AAAAJ&hl=en).
+## 🌐 Research Interests
+
+- 🔐 Cybersecurity & Digital Trust
+- 🤖 Trustworthy AI & AI Governance
+- ⛓️ Blockchain & Distributed Ledger Technologies
+- 🆔 Identity and Access Management (IAM)
+- 🌍 Privacy-Preserving Distributed Systems
+- ☁️ Cloud & Distributed Security
+
+---
+
+## 🚀 What I'm Working On
+
+I'm currently a **Researcher at the Google–University of Seville AI Chair**, where I work on:
+
+- Trust-aware AI architectures
+- Secure distributed infrastructures
+- AI-assisted security analysis
+- Governance-aware decision systems
+- Digital trust and compliance
+
+I also continue conducting research on:
+
+- Blockchain security
+- Identity management
+- Trustworthy AI
+- Telecom and IoT security
+- AI-driven fraud detection
+
+---
+
+## 🎓 Education
+
+**PhD in Telematics Engineering (Blockchain Technology)**  
+Universitat Politècnica de Catalunya (UPC)  
+Barcelona, Spain · 2022
+
+---
+
+## 🛠️ Technologies
+
+`Python`
+`Blockchain`
+`Hyperledger Fabric`
+`Docker`
+`Kubernetes`
+`Cloud Security`
+`IAM`
+`Linux`
+`Git`
+`Cybersecurity`
+`AI`
+`Trustworthy AI`
+
+---
+
+## 📚 Selected Publications
+
+My research focuses on **Cybersecurity, Blockchain, Digital Trust, and AI-assisted Security**.
+
+📄 Google Scholar:
+https://scholar.google.com/citations?user=VU8lEH4AAAAJ&hl=en
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn
+
+📫 nasibeh.m@gmail.com
