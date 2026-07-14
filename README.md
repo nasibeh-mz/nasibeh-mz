@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Nasibeh Mohammadzadeh (@nasibeh-mz)
+# 👋 Hi, I'm Nasibeh (@nasibeh-mz)
 
 I'm a Postdoctoral Researcher and Cybersecurity Engineer passionate about building trustworthy, secure, and intelligent digital systems.
 
